@@ -1,0 +1,79 @@
+,Event,Site,Date,Round,White,Black,Result,BlackElo,ECO,EventCategory,EventCountry,EventDate,EventRounds,EventType,PlyCount,Source,SourceDate,SourceQuality,SourceTitle,SourceVersion,SourceVersionDate,WhiteElo
+0,FIDE Candidates 2020,Yekaterinburg RUS,2020.03.17,1.3,"Giri, A.","Nepomniachtchi, I.",0-1,2774,A33,21,RUS,2020.03.17,14,tourn,146,Mark Crowther,2020.03.23,2,The Week in Chess 1324,1,2020.03.23,2763
+1,FIDE Candidates 2020,Yekaterinburg RUS,2020.03.18,2.2,"Nepomniachtchi, I.","Grischuk, A.",1/2-1/2,2777,C67,21,RUS,2020.03.17,14,tourn,80,Mark Crowther,2020.03.23,2,The Week in Chess 1324,1,2020.03.23,2774
+2,FIDE Candidates 2020,Yekaterinburg RUS,2020.03.19,3.4,"Alekseenko, K.","Nepomniachtchi, I.",1/2-1/2,2774,C19,21,RUS,2020.03.17,14,tourn,79,Mark Crowther,2020.03.23,2,The Week in Chess 1324,1,2020.03.23,2698
+3,FIDE Candidates 2020,Yekaterinburg RUS,2020.03.21,4.1,"Caruana, F.","Nepomniachtchi, I.",1/2-1/2,2774,D87,21,RUS,2020.03.17,14,tourn,110,Mark Crowther,2020.03.23,2,The Week in Chess 1324,1,2020.03.23,2842
+4,FIDE Candidates 2020,Yekaterinburg RUS,2020.03.22,5.4,"Nepomniachtchi, I.",Wang Hao,1-0,2762,C42,21,RUS,2020.03.17,14,tourn,85,Mark Crowther,2020.03.23,2,The Week in Chess 1324,1,2020.03.23,2774
+5,FIDE Candidates 2020,Yekaterinburg RUS,2020.03.23,6.3,"Nepomniachtchi, I.",Ding Liren,1-0,2805,C84,21,RUS,2020.03.17,14,tourn,79,Mark Crowther,2020.03.23,2,The Week in Chess 1324,1,2020.03.23,2774
+6,FIDE Candidates 2020,Yekaterinburg RUS,2020.03.25,7.2,"Vachier Lagrave, M.","Nepomniachtchi, I.",1-0,2774,C19,21,RUS,2020.03.17,14,tourn,83,Mark Crowther,2020.03.30,2,The Week in Chess 1325,1,2020.03.30,2767
+7,73rd ch-RUS 2020,Moscow RUS,2020.12.05,1.4,"Nepomniachtchi, I.","Matlakov, M.",1-0,2698,D35,18,RUS,2020.12.05,11,tourn,77,Mark Crowther,2020.12.07,2,The Week in Chess 1361,1,2020.12.07,2784
+8,73rd ch-RUS 2020,Moscow RUS,2020.12.06,2.4,"Svidler, P.","Nepomniachtchi, I.",1/2-1/2,2784,B90,18,RUS,2020.12.05,11,tourn,49,Mark Crowther,2020.12.07,2,The Week in Chess 1361,1,2020.12.07,2723
+9,73rd ch-RUS 2020,Moscow RUS,2020.12.07,3.3,"Nepomniachtchi, I.","Artemiev, V.",1/2-1/2,2711,C79,18,RUS,2020.12.05,11,tourn,62,Mark Crowther,2020.12.07,2,The Week in Chess 1361,1,2020.12.07,2784
+10,73rd ch-RUS 2020,Moscow RUS,2020.12.08,4.5,"Antipov, M2.","Nepomniachtchi, I.",0-1,2784,B90,18,RUS,2020.12.05,11,tourn,60,Mark Crowther,2020.12.14,2,The Week in Chess 1362,1,2020.12.14,2611
+11,73rd ch-RUS 2020,Moscow RUS,2020.12.09,5.2,"Nepomniachtchi, I.","Vitiugov, N.",1/2-1/2,2720,C45,18,RUS,2020.12.05,11,tourn,49,Mark Crowther,2020.12.14,2,The Week in Chess 1362,1,2020.12.14,2784
+12,73rd ch-RUS 2020,Moscow RUS,2020.12.10,6.6,"Goganov, A.","Nepomniachtchi, I.",0-1,2784,D37,18,RUS,2020.12.05,11,tourn,92,Mark Crowther,2020.12.14,2,The Week in Chess 1362,1,2020.12.14,2594
+13,73rd ch-RUS 2020,Moscow RUS,2020.12.12,7.1,"Nepomniachtchi, I.","Karjakin, Sergey",1-0,2752,E20,18,RUS,2020.12.05,11,tourn,63,Mark Crowther,2020.12.14,2,The Week in Chess 1362,1,2020.12.14,2784
+14,73rd ch-RUS 2020,Moscow RUS,2020.12.13,8.6,"Nepomniachtchi, I.","Fedoseev, Vl3",1/2-1/2,2674,B51,18,RUS,2020.12.05,11,tourn,101,Mark Crowther,2020.12.14,2,The Week in Chess 1362,1,2020.12.14,2784
+15,73rd ch-RUS 2020,Moscow RUS,2020.12.14,9.2,"Dubov, Daniil","Nepomniachtchi, I.",1-0,2784,D85,18,RUS,2020.12.05,11,tourn,79,Mark Crowther,2020.12.14,2,The Week in Chess 1362,1,2020.12.14,2702
+16,73rd ch-RUS 2020,Moscow RUS,2020.12.15,10.5,"Nepomniachtchi, I.","Esipenko, Andrey",1-0,2686,C42,18,RUS,2020.12.05,11,tourn,101,Mark Crowther,2020.12.21,2,The Week in Chess 1363,1,2020.12.21,2784
+17,73rd ch-RUS 2020,Moscow RUS,2020.12.16,11.3,"Chigaev, M.","Nepomniachtchi, I.",1/2-1/2,2784,B90,18,RUS,2020.12.05,11,tourn,19,Mark Crowther,2020.12.21,2,The Week in Chess 1363,1,2020.12.21,2619
+18,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.19,8.3,"Nepomniachtchi, I.","Giri, A.",1/2-1/2,2763,B33,21,RUS,2020.03.17,14,tourn,55,Mark Crowther,2021.04.19,2,The Week in Chess 1380,1,2021.04.19,2774
+19,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.20,9.2,"Grischuk, A.","Nepomniachtchi, I.",1/2-1/2,2774,D85,21,RUS,2020.03.17,14,tourn,80,Mark Crowther,2021.04.26,2,The Week in Chess 1381,1,2021.04.26,2777
+20,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.21,10.4,"Nepomniachtchi, I.","Alekseenko, K.",1-0,2698,A13,21,RUS,2020.03.17,14,tourn,61,Mark Crowther,2021.04.26,2,The Week in Chess 1381,1,2021.04.26,2774
+21,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.23,11.1,"Nepomniachtchi, I.","Caruana, F.",1/2-1/2,2842,C47,21,RUS,2020.03.17,14,tourn,81,Mark Crowther,2021.04.26,2,The Week in Chess 1381,1,2021.04.26,2774
+22,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.24,12.4,Wang Hao,"Nepomniachtchi, I.",0-1,2774,C42,21,RUS,2020.03.17,14,tourn,118,Mark Crowther,2021.04.26,2,The Week in Chess 1381,1,2021.04.26,2762
+23,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.26,13.2,"Nepomniachtchi, I.","Vachier Lagrave, M.",1/2-1/2,2767,A15,21,RUS,2020.03.17,14,tourn,83,Mark Crowther,2021.04.26,2,The Week in Chess 1381,1,2021.04.26,2774
+24,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.27,14.3,Ding Liren,"Nepomniachtchi, I.",1-0,2774,E60,21,RUS,2020.03.17,14,tourn,69,Mark Crowther,2021.05.03,2,The Week in Chess 1382,1,2021.05.03,2805
+25,9th Norway Chess 2021,Stavanger NOR,2021.09.08,2.2,"Nepomniachtchi, I.","Firouzja, Alireza",1/2-1/2,2754,C78,21,NOR,2021.09.07,10,tourn,61,Mark Crowther,2021.09.13,2,The Week in Chess 1401,1,2021.09.13,2792
+26,9th Norway Chess 2021,Stavanger NOR,2021.09.09,3.2,"Tari, A.","Nepomniachtchi, I.",1/2-1/2,2792,B90,21,NOR,2021.09.07,10,tourn,63,Mark Crowther,2021.09.13,2,The Week in Chess 1401,1,2021.09.13,2642
+27,9th Norway Chess 2021,Stavanger NOR,2021.09.10,4.1,"Carlsen, M.","Nepomniachtchi, I.",1/2-1/2,2792,C67,21,NOR,2021.09.07,10,tourn,77,Mark Crowther,2021.09.13,2,The Week in Chess 1401,1,2021.09.13,2855
+28,9th Norway Chess 2021,Stavanger NOR,2021.09.11,1.3,"Nepomniachtchi, I.","Karjakin, Sergey",1-0,2758,C67,21,NOR,2021.09.07,10,tourn,73,Mark Crowther,2021.09.13,2,The Week in Chess 1401,1,2021.09.13,2792
+29,9th Norway Chess 2021,Stavanger NOR,2021.09.12,5.2,"Nepomniachtchi, I.","Rapport, R.",1/2-1/2,2760,D02,21,NOR,2021.09.07,10,tourn,71,Mark Crowther,2021.09.13,2,The Week in Chess 1401,1,2021.09.13,2792
+30,9th Norway Chess 2021,Stavanger NOR,2021.09.13,6.2,"Karjakin, Sergey","Nepomniachtchi, I.",1/2-1/2,2792,E06,21,NOR,2021.09.07,10,tourn,57,Mark Crowther,2021.09.13,2,The Week in Chess 1401,1,2021.09.13,2758
+31,9th Norway Chess 2021,Stavanger NOR,2021.09.14,7.3,"Firouzja, Alireza","Nepomniachtchi, I.",1-0,2792,C50,21,NOR,2021.09.07,10,tourn,113,Mark Crowther,2021.09.20,2,The Week in Chess 1402,1,2021.09.20,2754
+32,9th Norway Chess 2021,Stavanger NOR,2021.09.15,8.2,"Nepomniachtchi, I.","Tari, A.",0-1,2642,A21,21,NOR,2021.09.07,10,tourn,68,Mark Crowther,2021.09.20,2,The Week in Chess 1402,1,2021.09.20,2792
+33,9th Norway Chess 2021,Stavanger NOR,2021.09.16,9.2,"Rapport, R.","Nepomniachtchi, I.",1/2-1/2,2792,D30,21,NOR,2021.09.07,10,tourn,36,Mark Crowther,2021.09.20,2,The Week in Chess 1402,1,2021.09.20,2760
+34,9th Norway Chess 2021,Stavanger NOR,2021.09.17,10.1,"Nepomniachtchi, I.","Carlsen, M.",1/2-1/2,2855,C53,21,NOR,2021.09.07,10,tourn,65,Mark Crowther,2021.09.20,2,The Week in Chess 1402,1,2021.09.20,2792
+35,WCh 2021,Dubai UAE,2021.11.26,1,"Nepomniachtchi, I.","Carlsen, M.",1/2-1/2,2855,C88,,UAE,2021.11.26,11,match,89,Mark Crowther,2021.11.29,2,The Week in Chess 1412,3,2021.11.30,2782
+36,WCh 2021,Dubai UAE,2021.11.27,2,"Carlsen, M.","Nepomniachtchi, I.",1/2-1/2,2782,E06,,UAE,2021.11.26,11,match,116,Mark Crowther,2021.11.29,2,The Week in Chess 1412,3,2021.11.30,2855
+37,WCh 2021,Dubai UAE,2021.11.28,3,"Nepomniachtchi, I.","Carlsen, M.",1/2-1/2,2855,C88,,UAE,2021.11.26,11,match,81,Mark Crowther,2021.11.29,2,The Week in Chess 1412,3,2021.11.30,2782
+38,WCh 2021,Dubai UAE,2021.11.30,4,"Carlsen, M.","Nepomniachtchi, I.",1/2-1/2,2782,C42,,UAE,2021.11.26,11,match,65,Mark Crowther,2021.12.06,2,The Week in Chess 1413,1,2021.12.06,2855
+39,WCh 2021,Dubai UAE,2021.12.01,5,"Nepomniachtchi, I.","Carlsen, M.",1/2-1/2,2855,C88,,UAE,2021.11.26,11,match,85,Mark Crowther,2021.12.06,2,The Week in Chess 1413,1,2021.12.06,2782
+40,WCh 2021,Dubai UAE,2021.12.03,6,"Carlsen, M.","Nepomniachtchi, I.",1-0,2782,D02,,UAE,2021.11.26,11,match,271,Mark Crowther,2021.12.06,2,The Week in Chess 1413,1,2021.12.06,2855
+41,WCh 2021,Dubai UAE,2021.12.04,7,"Nepomniachtchi, I.","Carlsen, M.",1/2-1/2,2855,C88,,UAE,2021.11.26,11,match,81,Mark Crowther,2021.12.06,2,The Week in Chess 1413,1,2021.12.06,2782
+42,WCh 2021,Dubai UAE,2021.12.05,8,"Carlsen, M.","Nepomniachtchi, I.",1-0,2782,C43,,UAE,2021.11.26,11,match,91,Mark Crowther,2021.12.06,2,The Week in Chess 1413,1,2021.12.06,2855
+43,WCh 2021,Dubai UAE,2021.12.07,9,"Nepomniachtchi, I.","Carlsen, M.",0-1,2855,A13,,UAE,2021.11.26,11,match,78,Mark Crowther,2021.12.13,2,The Week in Chess 1414,3,2021.12.14,2782
+44,WCh 2021,Dubai UAE,2021.12.08,10,"Carlsen, M.","Nepomniachtchi, I.",1/2-1/2,2782,C42,,UAE,2021.11.26,11,match,81,Mark Crowther,2021.12.13,2,The Week in Chess 1414,3,2021.12.14,2855
+45,WCh 2021,Dubai UAE,2021.12.10,11,"Nepomniachtchi, I.","Carlsen, M.",0-1,2855,C50,,UAE,2021.11.26,11,match,98,Mark Crowther,2021.12.13,2,The Week in Chess 1414,3,2021.12.14,2782
+46,Superbet Classic 2022,Bucharest ROU,2022.05.05,1.3,"Nepomniachtchi, I.","Deac, Bogdan-Daniel",1/2-1/2,2671,C43,21,ROU,2022.05.05,9,tourn,58,Mark Crowther,2022.05.09,2,The Week in Chess 1435,2,2022.05.09,2773
+47,Superbet Classic 2022,Bucharest ROU,2022.05.06,2.2,"Firouzja, Alireza","Nepomniachtchi, I.",0-1,2773,C24,21,ROU,2022.05.05,9,tourn,110,Mark Crowther,2022.05.09,2,The Week in Chess 1435,2,2022.05.09,2804
+48,Superbet Classic 2022,Bucharest ROU,2022.05.07,3.2,"Nepomniachtchi, I.","Dominguez Perez, L.",1/2-1/2,2753,C43,21,ROU,2022.05.05,9,tourn,100,Mark Crowther,2022.05.09,2,The Week in Chess 1435,2,2022.05.09,2773
+49,Superbet Classic 2022,Bucharest ROU,2022.05.08,4.1,"So, W.","Nepomniachtchi, I.",1-0,2773,E06,21,ROU,2022.05.05,9,tourn,115,Mark Crowther,2022.05.09,2,The Week in Chess 1435,2,2022.05.09,2776
+50,Superbet Classic 2022,Bucharest ROU,2022.05.09,5.2,"Nepomniachtchi, I.","Vachier Lagrave, M.",1/2-1/2,2750,B54,21,ROU,2022.05.05,9,tourn,84,Mark Crowther,2022.05.09,2,The Week in Chess 1435,2,2022.05.09,2773
+51,Superbet Classic 2022,Bucharest ROU,2022.05.11,6.4,"Caruana, F.","Nepomniachtchi, I.",1/2-1/2,2773,C42,21,ROU,2022.05.05,9,tourn,79,Mark Crowther,2022.05.16,2,The Week in Chess 1436,2,2022.05.16,2786
+52,Superbet Classic 2022,Bucharest ROU,2022.05.12,7.4,"Nepomniachtchi, I.","Mamedyarov, S.",0-1,2759,C50,21,ROU,2022.05.05,9,tourn,112,Mark Crowther,2022.05.16,2,The Week in Chess 1436,2,2022.05.16,2773
+53,Superbet Classic 2022,Bucharest ROU,2022.05.13,8.2,"Nepomniachtchi, I.","Aronian, L.",1/2-1/2,2765,C53,21,ROU,2022.05.05,9,tourn,170,Mark Crowther,2022.05.16,2,The Week in Chess 1436,2,2022.05.16,2773
+54,Superbet Classic 2022,Bucharest ROU,2022.05.14,9.5,"Rapport, R.","Nepomniachtchi, I.",1/2-1/2,2773,E32,21,ROU,2022.05.05,9,tourn,83,Mark Crowther,2022.05.16,2,The Week in Chess 1436,2,2022.05.16,2776
+55,FIDE Candidates 2022,Madrid ESP,2022.06.17,1.2,Ding Liren,"Nepomniachtchi, I.",0-1,2766,A20,21,ESP,2022.06.17,14,tourn,64,Mark Crowther,2022.06.20,2,The Week in Chess 1441,1,2022.06.20,2806
+56,FIDE Candidates 2022,Madrid ESP,2022.06.18,2.3,"Nepomniachtchi, I.","Caruana, F.",1/2-1/2,2783,C50,21,ESP,2022.06.17,14,tourn,65,Mark Crowther,2022.06.20,2,The Week in Chess 1441,1,2022.06.20,2766
+57,FIDE Candidates 2022,Madrid ESP,2022.06.19,3.3,"Radjabov, T.","Nepomniachtchi, I.",1/2-1/2,2766,E04,21,ESP,2022.06.17,14,tourn,59,Mark Crowther,2022.06.20,2,The Week in Chess 1441,1,2022.06.20,2753
+58,FIDE Candidates 2022,Madrid ESP,2022.06.21,4.2,"Nepomniachtchi, I.","Firouzja, Alireza",1-0,2793,B90,21,ESP,2022.06.17,14,tourn,77,Mark Crowther,2022.06.27,2,The Week in Chess 1442,2,2022.06.28,2766
+59,FIDE Candidates 2022,Madrid ESP,2022.06.22,5.4,"Nakamura, Hi","Nepomniachtchi, I.",1/2-1/2,2766,C42,21,ESP,2022.06.17,14,tourn,67,Mark Crowther,2022.06.27,2,The Week in Chess 1442,2,2022.06.28,2760
+60,FIDE Candidates 2022,Madrid ESP,2022.06.23,6.4,"Nepomniachtchi, I.","Duda, J.",1-0,2750,A07,21,ESP,2022.06.17,14,tourn,69,Mark Crowther,2022.06.27,2,The Week in Chess 1442,2,2022.06.28,2766
+61,FIDE Candidates 2022,Madrid ESP,2022.06.25,7.1,"Rapport, R.","Nepomniachtchi, I.",0-1,2766,C42,21,ESP,2022.06.17,14,tourn,86,Mark Crowther,2022.06.27,2,The Week in Chess 1442,2,2022.06.28,2764
+62,FIDE Candidates 2022,Madrid ESP,2022.06.26,8.2,"Nepomniachtchi, I.",Ding Liren,1/2-1/2,2806,C47,21,ESP,2022.06.17,14,tourn,74,Mark Crowther,2022.06.27,2,The Week in Chess 1442,2,2022.06.28,2766
+63,FIDE Candidates 2022,Madrid ESP,2022.06.27,9.3,"Caruana, F.","Nepomniachtchi, I.",1/2-1/2,2766,C42,21,ESP,2022.06.17,14,tourn,80,Mark Crowther,2022.06.27,2,The Week in Chess 1442,2,2022.06.28,2783
+64,FIDE Candidates 2022,Madrid ESP,2022.06.29,10.3,"Nepomniachtchi, I.","Radjabov, T.",1/2-1/2,2753,E06,21,ESP,2022.06.17,14,tourn,74,Mark Crowther,2022.07.04,2,The Week in Chess 1443,1,2022.07.04,2766
+65,FIDE Candidates 2022,Madrid ESP,2022.06.30,11.2,"Firouzja, Alireza","Nepomniachtchi, I.",0-1,2766,C42,21,ESP,2022.06.17,14,tourn,70,Mark Crowther,2022.07.04,2,The Week in Chess 1443,1,2022.07.04,2793
+66,FIDE Candidates 2022,Madrid ESP,2022.07.01,12.4,"Nepomniachtchi, I.","Nakamura, Hi",1/2-1/2,2760,C67,21,ESP,2022.06.17,14,tourn,28,Mark Crowther,2022.07.04,2,The Week in Chess 1443,1,2022.07.04,2766
+67,FIDE Candidates 2022,Madrid ESP,2022.07.03,13.1,"Nepomniachtchi, I.","Rapport, R.",1/2-1/2,2764,B67,21,ESP,2022.06.17,14,tourn,67,Mark Crowther,2022.07.04,2,The Week in Chess 1443,1,2022.07.04,2766
+68,FIDE Candidates 2022,Madrid ESP,2022.07.04,14.4,"Duda, J.","Nepomniachtchi, I.",1/2-1/2,2766,C43,21,ESP,2022.06.17,14,tourn,95,Mark Crowther,2022.07.04,2,The Week in Chess 1443,1,2022.07.04,2750
+69,9th Sinquefield Cup 2022,Saint Louis USA,2022.09.02,1.4,"Carlsen, M.","Nepomniachtchi, I.",1-0,2792,E10,21,USA,2022.09.02,9,tourn,85,Mark Crowther,2022.09.05,2,The Week in Chess 1452,2,2022.09.06,2861
+70,9th Sinquefield Cup 2022,Saint Louis USA,2022.09.03,2.1,"Nepomniachtchi, I.","Firouzja, Alireza",1-0,2778,E04,21,USA,2022.09.02,9,tourn,99,Mark Crowther,2022.09.05,2,The Week in Chess 1452,2,2022.09.06,2792
+71,9th Sinquefield Cup 2022,Saint Louis USA,2022.09.04,3.3,"Dominguez Perez, L.","Nepomniachtchi, I.",1/2-1/2,2792,B90,21,USA,2022.09.02,9,tourn,84,Mark Crowther,2022.09.05,2,The Week in Chess 1452,2,2022.09.06,2745
+72,9th Sinquefield Cup 2022,Saint Louis USA,2022.09.05,4.5,"Nepomniachtchi, I.","So, W.",1/2-1/2,2771,E06,21,USA,2022.09.02,9,tourn,50,Mark Crowther,2022.09.05,2,The Week in Chess 1452,2,2022.09.06,2792
+73,9th Sinquefield Cup 2022,Saint Louis USA,2022.09.06,5.4,"Vachier Lagrave, M.","Nepomniachtchi, I.",1/2-1/2,2792,C43,21,USA,2022.09.02,9,tourn,65,Mark Crowther,2022.09.12,2,The Week in Chess 1453,1,2022.09.12,2757
+74,9th Sinquefield Cup 2022,Saint Louis USA,2022.09.08,6.3,"Nepomniachtchi, I.","Caruana, F.",1/2-1/2,2758,B40,21,USA,2022.09.02,9,tourn,106,Mark Crowther,2022.09.12,2,The Week in Chess 1453,1,2022.09.12,2792
+75,9th Sinquefield Cup 2022,Saint Louis USA,2022.09.09,7.1,"Mamedyarov, S.","Nepomniachtchi, I.",1/2-1/2,2792,E32,21,USA,2022.09.02,9,tourn,68,Mark Crowther,2022.09.12,2,The Week in Chess 1453,1,2022.09.12,2757
+76,9th Sinquefield Cup 2022,Saint Louis USA,2022.09.10,8.2,"Aronian, L.","Nepomniachtchi, I.",0-1,2792,C42,21,USA,2022.09.02,9,tourn,104,Mark Crowther,2022.09.12,2,The Week in Chess 1453,1,2022.09.12,2759
+77,9th Sinquefield Cup 2022,Saint Louis USA,2022.09.11,9.3,"Nepomniachtchi, I.","Niemann, Hans Moke",1/2-1/2,2688,A21,21,USA,2022.09.02,9,tourn,108,Mark Crowther,2022.09.12,2,The Week in Chess 1453,1,2022.09.12,2792
